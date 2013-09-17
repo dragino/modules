@@ -1,19 +1,13 @@
-modules
+Modules
 =======
 
-Things relates to modules, nodes, accessories. 
+What you can find in this directory:
 
----- SCH/PCB ---> Schematic and PCB files for modules or nodes.
+- **Hardware** - Schematic and PCB files for modules or nodes.
 
-  |
+- **Libraries** - Libraries use for modules. 
   
-  |
-  
-  |- Examples ---> Examples Shows how to use the modules nodes. 
-  
-  |
-  
-  |
-  
-  |- Libraries ---> Libraries use for modules. 
-  
+- **Examples** - Examples source code to shows how to use the modules/nodes. 
+
+
+
