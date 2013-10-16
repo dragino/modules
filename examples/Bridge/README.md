@@ -21,4 +21,6 @@ Examples to show how to use Arduino Yun Bridge Library in ms14:
 - **TimeCheck** - Gets the time from the linino processor via Bridge then parses out hours, minutes and seconds for the Arduino using an Arduino Yún. 
 - **WiFiStatus** - This sketch runs a script called "pretty-wifi-info.lua" installed on your Yún in folder /usr/bin. It prints information about the status of your wifi connection.
 - **XivelyClient** - This sketch connects an analog sensor to Xively, using an Arduino Yún.
+- **XivelyClientMRFM12B** - This sketch connects an analog sensor to Xively, using an MS14 + MRFM12B, improve extensibility compare with XivelyClient.
 - **YeelinkClient** - This sketch connects an analog sensor to Yeelink, using an Arduino Yún.
+- **YeelinkClientMRFM12B** - This sketch connects an analog sensor to Yeelink, using an MS14 + MRFM12B, improve extensibility compare with YeelinkClient.
