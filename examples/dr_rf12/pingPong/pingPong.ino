@@ -9,13 +9,15 @@
 // see http://news.jeelabs.org/2010/05/20/a-subtle-rf12-detail/
 
 // Use Dragino RF12 lib for Dragino's module
+
+
 #include <DR_RF12.h>
 #include <Ports.h>
 
 MilliTimer sendTimer;
 char payload[] = "Hello!";
 byte needToSend;
-int led=13;
+int led=13;   
 
 static void sendLed (byte on) {
     digitalWrite(led,on);
@@ -27,7 +29,7 @@ static void receiveLed (byte on) {
 
 void setup () {
     delay(8000);  // Wait for 8s until dragino enter autoboot 
-    Serial.begin(9600);
+    Serial.begin(9600);   // change the baud rate to 115200 if use mrfm12b with ms14
     Serial.println(9600);
     Serial.println("Send and Receive");
     pinMode(led,OUTPUT);
