@@ -3,7 +3,7 @@
 #Send the sensor data file to a email address
 
 #define the destination mail address
-DES_MAIL=edwin@dragino.com
+DES_MAIL=You@Yourmail.com
 
 #specify the sensor record file 
 RAW_FILE=/var/test.csv
