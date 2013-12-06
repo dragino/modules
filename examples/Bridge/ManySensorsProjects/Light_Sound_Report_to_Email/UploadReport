@@ -1,0 +1,24 @@
+#!/bin/sh
+
+#Send the sensor data file to a email address
+
+#define the destination mail address
+DES_MAIL=edwin@dragino.com
+
+#specify the sensor record file 
+RAW_FILE=/var/test.csv
+
+#create a report file with the day stamp to send
+DAY=`date -I`
+REPORT=/var/report_$DAY.csv
+
+#copy the sensor file to the report file
+cp $RAW_FILE $REPORT
+
+#send the report file to 
+echo "Sensor Report" | mutt -s "Sensor Report"  -a $REPORT -- $DES_MAIL
+
+#delete the report file. sensor file and sentmail log from device
+rm $REPORT
+rm $RAW_FILE
+rm /root/sent
