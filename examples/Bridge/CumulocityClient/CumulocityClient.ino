@@ -14,7 +14,7 @@
  Created 10, Feb, 2014
  by Dragino Technology Co., Limited
  
- Reference Link:
+ Reference Link: http://wiki.dragino.com/index.php?title=Cumulocity#Example:_Upload_sensor_data_to_Cumulocity
  
  */
 
