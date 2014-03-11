@@ -31,7 +31,7 @@
 
 #include <Console.h>
 
-const int ledPin = 8; // the pin that the LED is attached to
+const int ledPin = 13; // the pin that the LED is attached to, use 8 for MRFM12B
 char incomingByte;      // a variable to read incoming Console data into
 
 void setup() {
