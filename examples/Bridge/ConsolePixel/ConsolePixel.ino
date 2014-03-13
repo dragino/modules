@@ -31,11 +31,11 @@
 
 #include <Console.h>
 
-const int ledPin = 8; // the pin that the LED is attached to
+const int ledPin = 13; // the pin that the LED is attached to, use 8 for MRFM12B
 char incomingByte;      // a variable to read incoming Console data into
 
 void setup() {
-  delay(7000);   // delay 8 s to wait for ms14 boot. 
+  delay(7000);   // delay 8 s to wait for ms14 boot. only require for MRFM12B
   Bridge.begin();   // Initialize Bridge
   Console.begin();  // Initialize Console
 

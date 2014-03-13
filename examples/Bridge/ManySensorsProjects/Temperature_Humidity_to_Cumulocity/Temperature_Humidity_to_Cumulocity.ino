@@ -164,7 +164,7 @@ void setTempAlarm() {
   cumulocity.addParameter("/usr/lib/lua/dragino/iot/cumulocity.lua");
   cumulocity.addParameter("-sa");
   cumulocity.addParameter("0");
-  cumulocity.addParameter("\"Overheated\"");
+  cumulocity.addParameter("Overheated");
   cumulocity.run();
 
   // Get return info
