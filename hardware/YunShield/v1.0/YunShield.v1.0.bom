@@ -1,0 +1,67 @@
+Partlist
+
+Exported from Yun_Shield.v1.0.sch at 2014/7/9 17:37:33
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value             Device          Package      Library  Sheet
+
+C1       0.1uF             C-EUC0402       C0402        dragino  3
+C2       0.1uF             C-EUC0402       C0402        dragino  3
+C3       0.1uF             C-EUC0402       C0402        dragino  3
+C4       0.1uF             C-EUC0402       C0402        dragino  3
+C5       10uF, 10V         C-EUC0805       C0805        dragino  4
+C6       0.1u 10v          C-EUC0402       C0402        dragino  4
+C7       0.1u 10v          C-EUC0402       C0402        dragino  4
+C8       0.1u 10v          C-EUC0402       C0402        dragino  4
+C9       0.1u NL           C-EUC0402       C0402        dragino  4
+C10      10uF 25V          C-EUC1206       C1206        dragino  2
+C11      10uF 25v NL       C-EUC1206       C1206        dragino  2
+C13      0.1u 10V          C-EUC0402       C0402        dragino  2
+C14      NL                C-EUC0402       C0402        dragino  2
+C15      3900pF 25V        C-EUC0402       C0402        dragino  2
+C16      0.01uF 16V        C-EUC0402       C0402        dragino  2
+C17      NL                C-EUC0402       C0402        dragino  2
+C18      22uF              C-EUC1210       C1210        dragino  2
+C19      22uF              C-EUC1210       C1210        dragino  2
+ICSP     ICSP              PINHD-2X3       2X03         SmartPrj 1
+J2       8x1F-H8.5         PINHD-1X8       1X08         SmartPrj 1
+J3       8x1F-H8.5         PINHD-1X8       1X08         SmartPrj 1
+J4       6x1F-H8.5         PINHD-1X6       1X06         SmartPrj 1
+JP1      10x1F-H8.5        PINHD-1X10      1X10         SmartPrj 1
+L1       500ma             L-EUL1812       L1812        dragino  2
+L2       10uH              INDUCTOR-SMRH74 INDUCTOR-74  dragino  2
+LAN      Yellow            LEDCHIP-LED0603 CHIP-LED0603 dragino  4
+PWR      Yellow            LEDCHIP-LED0603 CHIP-LED0603 dragino  4
+R1       10k               R-US_R0402      R0402        dragino  3
+R2       10k               R-US_R0402      R0402        dragino  3
+R3       47k               R-US_R0402      R0402        dragino  3
+R4       47k               R-US_R0402      R0402        dragino  3
+R5       PTC               R-US_R0805      R0805        dragino  4
+R6       49.9R             R-US_R0402      R0402        dragino  4
+R7       49.9R             R-US_R0402      R0402        dragino  4
+R8       49.9R             R-US_R0402      R0402        dragino  4
+R9       49.9R             R-US_R0402      R0402        dragino  4
+R10      330R              R-US_R0402      R0402        dragino  4
+R11      100K              R-US_R0402      R0402        dragino  4
+R12      330R              R-US_R0402      R0402        dragino  4
+R13      270R              R-US_R0402      R0402        dragino  4
+R14      270R              R-US_R0402      R0402        dragino  4
+R15      100K              R-US_R0402      R0402        dragino  2
+R16      6.81K             R-US_R0402      R0402        dragino  2
+R17      26.1K             R-US_R0402      R0402        dragino  2
+R18      10K               R-US_R0402      R0402        dragino  2
+S1                         PUSH_SWITCH     SWITCH_6X6X5 dragino  4
+SV1                        MA03-1          MA03-1       con-lstb 3
+SYS      Yellow            LEDCHIP-LED0603 CHIP-LED0603 dragino  4
+T1       AP2302GN-HF/SOT23 NMOSFET-SOT23   SOT-23       dragino  3
+U1       HE                HE              HE50         dragino  1
+U2       NTB0102GT         NTB0102GT       NXP-SOT833-1 dragino  3
+U3       NTB0104           NTB0104         DHVQFN14     dragino  3
+U4       YSSR05            YSSR05          SOT143       dragino  4
+U5       RT8250            RT8250          RT8250-SOP8  dragino  2
+USB                        PN87520         PN87520      con-berg 4
+WLAN     Yellow            LEDCHIP-LED0603 CHIP-LED0603 dragino  4
+X2       RJ111BE           RJ111BE         RJ111BE      dragino  4
