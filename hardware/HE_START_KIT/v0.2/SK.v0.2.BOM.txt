@@ -1,0 +1,109 @@
+Partlist
+
+Exported from SK.v0.2.sch at 2014/7/24 9:05:19
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value                      Device                     Package            Library         Sheet
+
+C1       0.1u                       C-EUC0402                  C0402              dragino         3
+C2       0.1u                       C-EUC0402                  C0402              dragino         3
+C3       0.1u                       C-EUC0402                  C0402              dragino         3
+C4       0.1u                       C-EUC0402                  C0402              dragino         3
+C5       0.1u                       C-EUC0402                  C0402              dragino         3
+C6       1000pF,2kv                 C-EUC1206                  C1206              dragino         3
+C7       1000pF,2kv                 C-EUC1206                  C1206              dragino         3
+C8       0.1u,100V                  C-EUC0805                  C0805              dragino         3
+C9       0.1u,100V                  C-EUC0805                  C0805              dragino         3
+C12      10uf,25v                   C-EUC1206K                 C1206K             dragino         2
+C13      10u,25v                    C-EUC1206K                 C1206K             dragino         2
+C14      NL                         C-EUC0402                  C0402              dragino         2
+C15      0.1u,10v                   C-EUC0402                  C0402              dragino         2
+C16      0.01u,16v                  C-EUC0402                  C0402              dragino         2
+C17      NL                         C-EUC0402                  C0402              dragino         2
+C18      3900pf,25v                 C-EUC0402                  C0402              dragino         2
+C19      NL                         C-EUC0402                  C0402              dragino         2
+C20      22u,10v                    C-EUC1210                  C1210              dragino         2
+C21      22u,10v                    C-EUC1210                  C1210              dragino         2
+C22      0.01u,16v                  C-EUC0402                  C0402              dragino         2
+C23      NL                         C-EUC0402                  C0402              dragino         2
+C24      3900pf,25v                 C-EUC0402                  C0402              dragino         2
+C25      NL                         C-EUC0402                  C0402              dragino         2
+C26      22u,10v                    C-EUC1210                  C1210              dragino         2
+C27      22u,10v                    C-EUC1210                  C1210              dragino         2
+C28      10uf,25v                   C-EUC1206K                 C1206K             dragino         2
+C29      10u,25v                    C-EUC1206K                 C1206K             dragino         2
+C30      NL                         C-EUC0402                  C0402              dragino         2
+C31      0.1u,10v                   C-EUC0402                  C0402              dragino         2
+C32      10u,10V                    C-EUC0805                  C0805              dragino         3
+C33      0.1u 10v                   C-EUC0402                  C0402              dragino         3
+C34      0.1u 10v                   C-EUC0402                  C0402              dragino         3
+C35      0.1u 10v                   C-EUC0402                  C0402              dragino         3
+C36      0.1u 10v                   C-EUC0402                  C0402              dragino         3
+C37      0.1u                       C-EUC0402                  C0402              dragino         3
+C38      0.1u                       C-EUC0402                  C0402              dragino         3
+DB9                                 F09HP                      F09HP              con-subd        3
+FAILSAFE                            TS42                       TS42               dragino         4
+J1       POWER_JACKSLT              POWER_JACKSLT              POWER_JACK_SLOT    dragino         2
+J2       ETHERNET_2PORT             ETHERNET_2PORT             ETHERNET-1X2       dragino         3
+L1       2A                         L-EUL1812                  L1812              dragino         2
+L2       10uH                       INDUCTOR-SMRH74            INDUCTOR-74        dragino         2
+L3       15uH                       INDUCTOR-SMRH74            INDUCTOR-74        dragino         2
+LAN                                 LEDCHIP-LED0805            CHIP-LED0805       dragino         4
+PWR                                 LEDCHIP-LED0805            CHIP-LED0805       dragino         4
+R1       75                         R-US_R0402                 R0402              dragino         3
+R2       75                         R-US_R0402                 R0402              dragino         3
+R3       75                         R-US_R0402                 R0402              dragino         3
+R4       75                         R-US_R0402                 R0402              dragino         3
+R5       75                         R-US_R0402                 R0402              dragino         3
+R6       75                         R-US_R0402                 R0402              dragino         3
+R9       100K                       R-US_R0402                 R0402              dragino         2
+R10      6.81K                      R-US_R0402                 R0402              dragino         2
+R11      26.1K                      R-US_R0402                 R0402              dragino         2
+R12      10K                        R-US_R0402                 R0402              dragino         2
+R13      6.81K                      R-US_R0402                 R0402              dragino         2
+R14      45.3K                      R-US_R0402                 R0402              dragino         2
+R15      10K                        R-US_R0402                 R0402              dragino         2
+R16      100K                       R-US_R0402                 R0402              dragino         2
+R17      NL                         R-US_R0402                 R0402              dragino         2
+R18      0R                         R-US_R0805                 R0805              dragino         3
+R19      270                        R-US_R0402                 R0402              dragino         4
+R20      270                        R-US_R0402                 R0402              dragino         4
+R21      330                        R-US_R0402                 R0402              dragino         4
+R22      NL                         R-US_R0805                 R0805              dragino         4
+R23      330                        R-US_R0402                 R0402              dragino         4
+R24      330                        R-US_R0402                 R0402              dragino         4
+R25      270                        R-US_R0402                 R0402              dragino         4
+R26      NL                         R-US_R0805                 R0805              dragino         4
+R27      NL                         R-US_R0805                 R0805              dragino         4
+R28      NL                         R-US_R0805                 R0805              dragino         4
+R29      49.9                       R-US_R0402                 R0402              dragino         3
+R30      49.9                       R-US_R0402                 R0402              dragino         3
+R31      49.9                       R-US_R0402                 R0402              dragino         3
+R32      49.9                       R-US_R0402                 R0402              dragino         3
+R33      49.9                       R-US_R0402                 R0402              dragino         3
+R34      49.9                       R-US_R0402                 R0402              dragino         3
+R35      49.9                       R-US_R0402                 R0402              dragino         3
+R36      49.9                       R-US_R0402                 R0402              dragino         3
+ROUTER                              MA08-2                     MA08-2             dragino         4
+ROUTER_2                            MA07-2                     MA07-2             dragino         4
+SYS                                 LEDCHIP-LED0805            CHIP-LED0805       dragino         4
+T1       RJ45_TRANSFORMER_HST2038DR RJ45_TRANSFORMER_HST2038DR RIONET_H2038       dragino         3
+U$11     METAL-HOLE                 METAL-HOLE                 METAL_HOLE         dragino         4
+U$12     METAL-HOLE                 METAL-HOLE                 METAL_HOLE         dragino         4
+U$13     METAL-HOLE                 METAL-HOLE                 METAL_HOLE         dragino         4
+U$14     METAL-HOLE                 METAL-HOLE                 METAL_HOLE         dragino         4
+U1       HE                         HE                         HE50               dragino         1
+U2       ADM3202A"                  ADM3202A"                  MAXIM_-_??_TSSOP16 dragino         3
+U4       YSSR05                     YSSR05                     SOT143             dragino         3
+U6       RT8250                     RT8250                     RT8250-SOP8        dragino         2
+U7       RT8250                     RT8250                     RT8250-SOP8        dragino         2
+USB                                 LEDCHIP-LED0805            CHIP-LED0805       dragino         4
+USB-CON  USB-CON-AVERTICAL          USB-CON-AVERTICAL          CON-USB-AH         dragino         3
+WAN                                 LEDCHIP-LED0805            CHIP-LED0805       dragino         4
+WIFI                                LEDCHIP-LED0805            CHIP-LED0805       dragino         4
+X1                                  MKDS1/12-3,81              12POL381           con-phoenix-381 4
+X2                                  MKDS1/2-3,81               2POL381            con-phoenix-381 4
+X3                                  MKDSN1,5/2-5,08            MKDSN1,5/2-5,08    con-phoenix-508 2
