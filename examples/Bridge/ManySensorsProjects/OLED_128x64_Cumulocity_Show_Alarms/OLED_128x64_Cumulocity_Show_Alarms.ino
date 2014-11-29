@@ -50,7 +50,7 @@ void setup() {
   SeeedOled.setNormalDisplay();      //Set display to normal mode (i.e non-inverse mode)
   SeeedOled.setPageMode();           //Set addressing mode to Page Mode
   SeeedOled.setTextXY(0,0);          //Set the cursor to Xth Page, Yth Column  
-  SeeedOled.putString("Cumulocity Demo"); //Print the String
+  SeeedOled.putString("Yeelink Demo"); //Print the String
 }
 
 void loop() {
