@@ -89,6 +89,7 @@ void sendData() {
   Process emoncms;
   Console.print("\n\nSending data... ");
   emoncms.begin("curl");
+  emoncms.addParameter("-g");
   emoncms.addParameter(url);
   emoncms.run();
   Console.println("done!");
