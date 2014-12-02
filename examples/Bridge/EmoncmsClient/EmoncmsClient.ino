@@ -36,10 +36,10 @@ String dataString = "";
 void setup() {
   // start serial port:
   Bridge.begin();
-  Serial.begin(9600);
+  Console.begin();
 
-  while(!Serial);    // wait for Network Serial to open
-  Serial.println("Emoncms client");
+  while(!Console);    // wait for Network Console to open
+  Console.println("Emoncms client");
 
   // Do a first update immediately
   updateData();
@@ -87,17 +87,17 @@ void sendData() {
   // sendData function finishes the resources are immediately
   // released. Declaring it global works too, BTW.
   Process emoncms;
-  Serial.print("\n\nSending data... ");
+  Console.print("\n\nSending data... ");
   emoncms.begin("curl");
   emoncms.addParameter(url);
   emoncms.run();
-  Serial.println("done!");
+  Console.println("done!");
 
   // If there's incoming data from the net connection,
-  // send it out the Serial:
+  // send it out the Console:
   while (emoncms.available()>0) {
     char c = emoncms.read();
-    Serial.write(c);
+    Console.write(c);
   }
 
 }
