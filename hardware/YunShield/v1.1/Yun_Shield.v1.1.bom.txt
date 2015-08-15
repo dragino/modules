@@ -1,0 +1,66 @@
+Partlist exported from D:/Projects/Dragino/Dragon Board V1.0/Yun Shield/v1.2/Yun_Shield.v1.2.sch at 2015/7/23 22:43:24
+
+Assembly variant: ''
+
+Part Value                Device               Package       Description                            
+C1   0.1uF                C-EUC0402            C0402         CAPACITOR, European symbol             
+C2   0.1uF                C-EUC0402            C0402         CAPACITOR, European symbol             
+C3   0.1uF                C-EUC0402            C0402         CAPACITOR, European symbol             
+C4   0.1uF                C-EUC0402            C0402         CAPACITOR, European symbol             
+C5   10uF, 10V            C-EUC0805            C0805         CAPACITOR, European symbol             
+C6   0.1u 10v             C-EUC0402            C0402         CAPACITOR, European symbol             
+C7   0.1u 10v             C-EUC0402            C0402         CAPACITOR, European symbol             
+C8   0.1u 10v             C-EUC0402            C0402         CAPACITOR, European symbol             
+C9   0.1u NL              C-EUC0402            C0402         CAPACITOR, European symbol             
+C10  10uF 25V             C-EUC1206            C1206         CAPACITOR, European symbol             
+C11  0.1uF                C-EUC0402            C0402         CAPACITOR, European symbol             
+C12  0.1uF                C-EUC0402            C0402         CAPACITOR, European symbol             
+C13  0.1u 10V             C-EUC0402            C0402         CAPACITOR, European symbol             
+C14  NL                   C-EUC0402            C0402         CAPACITOR, European symbol             
+C15  3900pF 25V           C-EUC0402            C0402         CAPACITOR, European symbol             
+C16  0.01uF 16V           C-EUC0402            C0402         CAPACITOR, European symbol             
+C17  0.1u                 C-EUC0402            C0402         CAPACITOR, European symbol             
+C19  22uF                 C-EUC1210            C1210         CAPACITOR, European symbol             
+ICSP ICSP                 PINHD-2X3            2X03          PIN HEADER                             
+J2   8x1F-H8.5            PINHD-1X8            1X08          PIN HEADER                             
+J3   8x1F-H8.5            PINHD-1X8            1X08          PIN HEADER                             
+J4   6x1F-H8.5            PINHD-1X6            1X06          PIN HEADER                             
+JP1  10x1F-H8.5           PINHD-1X10           1X10          PIN HEADER                             
+L1   500ma                L-EUL1812            L1812         INDUCTOR, European symbol              
+L3   10uH /SWPA4020S100MT INDUCTORSWPA4020S    SWPA4020S     CHOKE                                  
+LAN  Yellow               LEDCHIP-LED0603      CHIP-LED0603  LED                                    
+PWR  Yellow-Green               LEDCHIP-LED0603      CHIP-LED0603  LED                                    
+R1   10k                  R-US_R0402           R0402         RESISTOR, American symbol              
+R2   10k                  R-US_R0402           R0402         RESISTOR, American symbol              
+R3   10k                  R-US_R0402           R0402         RESISTOR, American symbol              
+R4   10k                  R-US_R0402           R0402         RESISTOR, American symbol              
+R5   PTC                  R-US_R0805           R0805         RESISTOR, American symbol              
+R6   49.9R                R-US_R0402           R0402         RESISTOR, American symbol              
+R7   49.9R                R-US_R0402           R0402         RESISTOR, American symbol              
+R8   49.9R                R-US_R0402           R0402         RESISTOR, American symbol              
+R9   49.9R                R-US_R0402           R0402         RESISTOR, American symbol              
+R10  330R                 R-US_R0402           R0402         RESISTOR, American symbol              
+R11  10K                  R-US_R0402           R0402         RESISTOR, American symbol              
+R12  330R                 R-US_R0402           R0402         RESISTOR, American symbol              
+R13  270R                 R-US_R0402           R0402         RESISTOR, American symbol              
+R14  270R                 R-US_R0402           R0402         RESISTOR, American symbol              
+R15  100K                 R-US_R0402           R0402         RESISTOR, American symbol              
+R16  6.81K                R-US_R0402           R0402         RESISTOR, American symbol              
+R17  26.1K                R-US_R0402           R0402         RESISTOR, American symbol              
+R18  10K                  R-US_R0402           R0402         RESISTOR, American symbol              
+R19  NL                   R-US_R0402           R0402         RESISTOR, American symbol              
+S1                        PUSH_SWITCH          SWITCH_6X6X5  PUSH SWITCH                            
+SV1                       MA03-1               MA03-1        PIN HEADER                             
+SV2                       MA03-1               MA03-1        PIN HEADER                             
+SYS  WHITE              LEDCHIP-LED0603      CHIP-LED0603  LED                                    
+T1   BSS138/SOT23         NMOSFET-SOT23        SOT-23        MOS FET                                
+U$1  LOGO-NEW             LOGO-NEW             LOGO-SILK-NEW                                        
+U1   HE                   HE                   HE50                                                 
+U2   TXS0102              AMLIB_NEW_TXS0102DCU US8                                                  
+U4   YSSR05               YSSR05               SOT143        Yeashin LOW CAPACITANCE TVS DIODE ARRAY
+U5   RT8250               RT8250               RT8250-SOP8   DC-DC Converter.                       
+U6   TXS0102              AMLIB_NEW_TXS0102DCU US8                                                  
+U7   TXS0102              AMLIB_NEW_TXS0102DCU US8                                                  
+USB                       PN87520              PN87520       BERG USB connector                     
+WLAN BLUE               LEDCHIP-LED0603      CHIP-LED0603  LED                                    
+X2   RJ111BE              RJ111BE              RJ111BE       RJ45 connector with transformer        
