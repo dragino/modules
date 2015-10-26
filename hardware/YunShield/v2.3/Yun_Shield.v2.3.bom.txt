@@ -1,0 +1,109 @@
+Partlist exported from D:/Projects/Dragino/Dragon Board V1.0/Yun Shield/v2.3/Yun_Shield.v2.3.sch at 2015/9/6 16:31
+
+Part Value                 Device                   Package                  Description                             MF MPN OC_FARNELL OC_NEWARK
+C1   0.1uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C2   0.1uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C3   0.1uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C4   0.1uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C6   0.1u 10v              C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C7   0.1u 10v              C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C8   0.1u 10v              C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C9   0.1u NL               C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C18  18pF                  C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C20  1uF                   C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C21  18pF                  C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C22  1uF                   C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C23  4.7uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C24  4.7uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C25  1uF                   C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C26  4.7uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C27  0.1uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C28  0.1uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C29  0.1uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C30  0.1uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C31  4.7uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C32  4.7uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C33  0.1uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C34  0.1uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C35  1uF                   C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C36  10pf,NL               C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C37  2.2uF                 C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C38  10uF                  C-EUC0805                C0805                    CAPACITOR, European symbol                                         
+C39  10uF                  C-EUC0805                C0805                    CAPACITOR, European symbol                                         
+C40  10u,25v               C-EUC1206K               C1206K                   CAPACITOR, European symbol                                         
+C41  NL                    C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C42  0.1u,10v              C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C43  0.01u,16v             C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C44  NL                    C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C45  3900pf,25v            C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C46  NL                    C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C48  22u,10v               C-EUC1210                C1210                    CAPACITOR, European symbol                                         
+C49  0.01u,16v             C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C50  NL                    C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C51  3900pf,25v            C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C52  NL                    C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C54  22u,10v               C-EUC1210                C1210                    CAPACITOR, European symbol                                         
+C55  10uf,25v              C-EUC1206K               C1206K                   CAPACITOR, European symbol                                         
+C57  NL                    C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+C58  0.1u,10v              C-EUC0402                C0402                    CAPACITOR, European symbol                                         
+F1   Fuse , 1A             FUSE1812                 L1812                    FUSE                                                               
+ICSP ICSP                  PINHD-2X3                2X03                     PIN HEADER                                                         
+J2   8x1F-H8.5             PINHD-1X8                1X08                     PIN HEADER                                                         
+J3   8x1F-H8.5             PINHD-1X8                1X08                     PIN HEADER                                                         
+J4   6x1F-H8.5             PINHD-1X6                1X06                     PIN HEADER                                                         
+J5   USB-CON-A-DUAL        USB-CON-A-DUAL           USB-DUAL-JS-AF10-002                                                                        
+J6   SWITCHTS-017          SWITCHTS-017             TS-017                                                                                      
+JP1  10x1F-H8.5            PINHD-1X10               1X10                     PIN HEADER                                                         
+L3   1A                    L-EUL1812                L1812                    INDUCTOR, European symbol                                          
+L4   10uH /SWPA4020S100MT  INDUCTORSWPA4020S        SWPA4020S                CHOKE                                                              
+L5   15uH / SWPA4030S150MT INDUCTORSWPA4020S        SWPA4020S                CHOKE                                                              
+LAN  Yellow                LEDCHIP-LED0603          CHIP-LED0603             LED                                                                
+PWR  Yellow-Green          LEDCHIP-LED0603          CHIP-LED0603             LED                                                                
+R1   10k                   R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R2   10k                   R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R3   10k                   R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R4   10k                   R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R5   100K                  R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R6   49.9R                 R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R7   49.9R                 R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R8   49.9R                 R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R9   49.9R                 R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R10  330R                  R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R11  10K                   R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R12  330R                  R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R13  270R                  R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R14  270R                  R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R20  0R                    R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R21  680                   R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R22  5.1K                  R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R23  330                   R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R24  10K                   R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R25  470K                  R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R26  47K                   R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R27  0R                    R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R28  6.81K                 R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R29  26.1K                 R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R30  10K                   R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R31  6.81K                 R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R32  0R                    R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R33  0R                    R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R34  45.3K                 R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R35  10K                   R-US_R0402               R0402                    RESISTOR, American symbol                                          
+R36  100K                  R-US_R0402               R0402                    RESISTOR, American symbol                                          
+SV1                        MA03-1                   MA03-1                   PIN HEADER                                     unknown    unknown  
+SYS  WHITE                 LEDCHIP-LED0603          CHIP-LED0603             LED                                                                
+T1   BSS138/SOT23          NMOSFET-SOT23            SOT-23                   MOS FET                                        unknown    unknown  
+TP1  TEST-POINTTH          TEST-POINTTH             TEST-POINT-TH                                                                               
+U$1  LOGO-NEW              LOGO-NEW                 LOGO-SILK-NEW                                                                               
+U$14                       RIONET_SDCARD            RIONET_472192001_SD                                                                         
+U1   HE                    HE                       HE50                                                                                        
+U3   AU6353                AU6353-48PIN             AU6350_LQFP-48                                                                              
+U4   RT8250                RT8250                   RT8250-SOP8              DC-DC Converter.                                                   
+U8   YSSR05                YSSR05                   SOT143                   Yeashin LOW CAPACITANCE TVS DIODE ARRAY                            
+U9   YSSR05                YSSR05                   SOT143                   Yeashin LOW CAPACITANCE TVS DIODE ARRAY                            
+U10  RT8250                RT8250                   RT8250-SOP8              DC-DC Converter.                                                   
+U11  NTB0102GT             NTB0102GT                NXP-SOT833-1                                                                                
+U12  NTB0104               NTB0104                  DHVQFN14                                                                                    
+WLAN BLUE                  LEDCHIP-LED0603          CHIP-LED0603             LED                                                                
+X1   12Mhz                 SMARTPRJ_CRYSTAL-3.2-2.5 SMARTPRJ_CRYSTAL-3.2-2.5                                                                    
+X2   RJ111BE               RJ111BE                  RJ111BE                  RJ45 connector with transformer                unknown    unknown  
